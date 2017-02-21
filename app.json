@@ -1,6 +1,8 @@
 {
   "name": "build-pack-test",
-  "scripts": {},
+  "scripts": {
+    "postdeploy": "rake db:setup"
+  },
   "env": {},
   "formation": {},
   "addons": [],
