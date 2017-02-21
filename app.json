@@ -1,0 +1,8 @@
+{
+  "name": "build-pack-test",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": []
+}
